@@ -26,36 +26,35 @@
     {
       "name": "Institut für Mathematik, Heidelberg University",
       "position": "Master's student in Mathematics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "url": "",
+      "startDate": "2023-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Heidelberg University, Heidelberg, Germany",
+      "location": "",
+      "url": "",
+      "area": "Mathematics",
+      "studyType": "Master of Science",
+      "startDate": "2021-10-01",
+      "endDate": "2024-09-30",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Heidelberg University, Heidelberg, Germany",
+      "location": "",
+      "url": "",
+      "area": "Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2017-10-01",
+      "endDate": "2021-09-30",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
