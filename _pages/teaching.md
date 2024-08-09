@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
@@ -28,7 +27,7 @@ nav_order: 6
         th, td {
             border-top: 1px solid black;
             border-bottom: 1px solid black;
-            padding: 10px;
+            padding: 20px;
             text-align: left;
             overflow-wrap: break-word; /* Helps with long text */
         }
@@ -81,6 +80,7 @@ nav_order: 6
     </table>
 </div>
 
+<br />
 <div>
     <strong>As Student Assistant</strong><br />
     (leading tutorials, correcting exercise sheets)
