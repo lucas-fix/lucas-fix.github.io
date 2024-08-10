@@ -161,11 +161,6 @@ nav_order: 6
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Introduction to Machine Learning</h5>
       </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            10-701
-        </span>
-      </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Spring 2016: Guest Lecturer / Teaching Assistant</h6>
   </div>
