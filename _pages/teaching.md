@@ -152,6 +152,8 @@ nav_order: 6
       <div class="col-sm-10">
         <h5 class="font-weight-bold">Summer 2023</h5>
       </div>
+      <div class="col-sm-2 text-left text-sm-right">
+      </div>
     <h6 class="font-italic mt-2 mt-sm-0">Lecture <em>Partielle Differentialgleichungen</em>, held by <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> (Heidelberg University)</h6>
     </div>
   </div>
