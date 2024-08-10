@@ -137,9 +137,9 @@ nav_order: 6
   <div class="p-3">
     <div class="row">
       <div class="col-12">
-        <h5>Winter 2023/24</h5>
+        <h5 class="font-weight-bold">Winter 2023/24</h5>
         <h6>Lecture <em>Variationsrechnung 2</em>, held by <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> (Heidelberg University)</h6>
-        <h6 class="font-italic">Seminar <em>Themen aus den Partiellen Differentialgleichungen</em>, held by <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> (Heidelberg University)</h6>
+        <h6>Seminar <em>Themen aus den Partiellen Differentialgleichungen</em>, held by <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> (Heidelberg University)</h6>
       </div>
     </div>
   </div>
