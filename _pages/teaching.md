@@ -6,7 +6,7 @@ nav: true
 nav_order: 6
 ---
 
-<strong>As Teaching Assistant</strong><br />
+## As Teaching Assistant
     (creating exercise sheets, editing course materials)
 
 <div class="card mt-3 mb-3 p-3">
@@ -44,7 +44,7 @@ nav_order: 6
 </div>
 
 
-<strong>As Student Assistant</strong><br />
+## As Student Assistant
     (leading tutorials, correcting exercise sheets)
 
 <div class="card mt-3 mb-3 p-3">
@@ -52,7 +52,7 @@ nav_order: 6
     <div class="row">
       <div class="col-12">
         <h5 class="font-weight-bold">Winter 2022/23</h5>
-        <h6>Lecture <em>Höhere Analysis</em>, held by <a href="https://www.uni-heidelberg.de/math/rueland/" target="_blank">Prof. Dr. A. Rüland</h6>
+        <h6>Lecture <em>Höhere Analysis</em>, held by <a href="https://www.uni-heidelberg.de/math/rueland/" target="_blank">Prof. Dr. A. Rüland</a> (Heidelberg University)</h6>
       </div>
     </div>
   </div>
