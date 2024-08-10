@@ -130,6 +130,7 @@ nav_order: 6
         <h5 class="font-weight-bold">Summer 2024</h5>
       </div>
     <h6 class="font-italic mt-2 mt-sm-0">Lecture <em>Partielle Differentialgleichungen</em>, held by <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> (Heidelberg University)</h6>
+    </div>
   </div>
 </div>
 
@@ -141,6 +142,7 @@ nav_order: 6
       </div>
     <h6 class="font-italic mt-2 mt-sm-0">Lecture <em>Variationsrechnung 2</em>, held by <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> (Heidelberg University)</h6>
     <h6 class="font-italic mt-2 mt-sm-0">Seminar <em>Themen aus den Partiellen Differentialgleichungen</em>, held by <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> (Heidelberg University)</h6>
+    </div>
   </div>
 </div>
 
@@ -151,5 +153,6 @@ nav_order: 6
         <h5 class="font-weight-bold">Summer 2023</h5>
       </div>
     <h6 class="font-italic mt-2 mt-sm-0">Lecture <em>Partielle Differentialgleichungen</em>, held by <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> (Heidelberg University)</h6>
+    </div>
   </div>
 </div>
