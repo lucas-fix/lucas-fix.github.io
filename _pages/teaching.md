@@ -7,7 +7,8 @@ nav_order: 6
 ---
 
 ## As Teaching Assistant
-    (creating exercise sheets, editing course materials)
+
+(creating exercise sheets, editing course materials)
 
 <div class="card mt-3 mb-3 p-3">
   <div class="p-3">
@@ -45,7 +46,8 @@ nav_order: 6
 
 
 ## As Student Assistant
-    (leading tutorials, correcting exercise sheets)
+
+(leading tutorials, correcting exercise sheets)
 
 <div class="card mt-3 mb-3 p-3">
   <div class="p-3">
