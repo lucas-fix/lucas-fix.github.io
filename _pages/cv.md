@@ -1,10 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
+permalink: /assets/pdf/CV_pdf.pdf
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: CV_pdf.pdf
-toc:
-  sidebar: left
 ---
