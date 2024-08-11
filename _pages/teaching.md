@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 Below you find a list of current and past courses where I was involved in teaching duties.

@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 <strong>About my research</strong>
@@ -63,4 +63,16 @@ nav_order: 5
 			</tr>
 		</tbody>
     </table>
+</div>
+
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
 </div>
