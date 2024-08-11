@@ -6,7 +6,8 @@ nav: true
 nav_order: 6
 ---
 
-## As Teaching Assistant
+Below you find a list of current and past courses where I was involved in teaching duties.
+<h2 style="margin-top: 40px;">As Teaching Assistant</h2>
 
 (creating exercise sheets, editing course materials)
 
@@ -45,7 +46,7 @@ nav_order: 6
 </div>
 
 
-## As Student Assistant
+<h2 style="margin-top: 40px;">As Student Assistant</h2>
 
 (leading tutorials, correcting exercise sheets)
 
@@ -65,7 +66,7 @@ nav_order: 6
     <div class="row">
       <div class="col-12">
         <h5 class="font-weight-bold">Summer 2022</h5>
-        <h6>Lecture <em>Analysis 2</em>, held by <a href="https://www.uni-heidelberg.de/math/rueland/" target="_blank">Prof. Dr. A. Rüland</a> (Heidelberg University)</h6>
+        <h6>Lecture <em>Analysis 2</em>, held by <a href="https://www.mathi.uni-heidelberg.de/~palbers/" target="_blank">Prof. Dr. P. Albers</a> (Heidelberg University)</h6>
       </div>
     </div>
   </div>
