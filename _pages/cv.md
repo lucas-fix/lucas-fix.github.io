@@ -1,7 +1,9 @@
 ---
 layout: page
-permalink: /assets/pdf/CV_pdf.pdf
 title: CV
+permalink: /cv/
 nav: true
 nav_order: 5
+newtab: true
+redirect_to: /assets/pdf/CV_pdf.pdf
 ---

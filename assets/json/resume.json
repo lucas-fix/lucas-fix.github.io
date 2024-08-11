@@ -1,28 +1,4 @@
-{
-  "General Information": {
-    "name": "Lucas Fix",
-    "label": "",
-    "image": "",
-    "email": "Lucas.Fix@gmx.de",
-    "phone": "",
-    "url": "https://lucas-fix.github.io",
-    "summary": "",
-    "location": {
-      "address": "Im Neuenheimer Feld 205",
-      "postalCode": "69120",
-      "city": "Heidelberg",
-      "countryCode": "D",
-      "region": "Baden-Württemberg"
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
-  },
-  "work": [
+{"work": [
     {
       "name": "Institut für Mathematik, Heidelberg University",
       "position": "Teaching assistant in the research group of Prof. Dr. H. Knüpfer",
