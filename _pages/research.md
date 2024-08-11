@@ -13,7 +13,6 @@ nav_order: 3
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Academic Semesters and Lectures</title>
-    <link rel="stylesheet" href="style.css">
     <style>
         body {
             margin: 0;
