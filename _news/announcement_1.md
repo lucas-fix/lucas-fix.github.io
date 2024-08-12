@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Sarting November 2024 I will be a PhD student under the supervision of <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/appa/mp/" target=" blank">Prof. Dr. M. Peter</a> at Augsburg University.
