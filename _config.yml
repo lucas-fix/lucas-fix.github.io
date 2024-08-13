@@ -8,7 +8,7 @@ middle_name:
 last_name: Fix
 email: Lucas.Fix@gmx.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal Homepage.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -49,7 +49,7 @@ rss_icon: true
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
+socials_in_search: false
 bib_search: true
 
 # Dimensions
@@ -307,8 +307,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Fix]
+  first_name: [Lucas, M.]
 
   style: apa
   locale: en

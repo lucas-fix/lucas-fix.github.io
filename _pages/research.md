@@ -7,8 +7,7 @@ nav_order: 3
 ---
 
 <strong>About my research</strong> <br />
-I am mainly interested in <em>applied analysis</em>, with an emphasis on <em>partial differential equations </em> and the <em>calculus of variations</em>. In my master's thesis I examined elliptic regularity properties of the Laplace operator equipped with Robin boundary conditions on domains with an exterior cusp. Due to the irregularity of the domain under consideration an analysis in classical Sobolev spaces exhibits large obstructions which motivated the introduction of weighted Sobolev spaces and their functional analytic study.
-I am further deeply interested in topics related to (periodic) homogenisation.
+I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>partial differential equations </em> and the <em>calculus of variations</em>. In my master's thesis I examined elliptic regularity properties of the Laplace operator equipped with Robin boundary conditions on domains with an exterior cusp. An analysis in classical Sobolev spaces presents significant challenges due to the irregularity of the domain under consideration, which motivated the introduction of weighted Sobolev spaces and their functional analytic study.
 
 <head>
     <meta charset="UTF-8">
