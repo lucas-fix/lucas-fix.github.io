@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Since September 2024 I am Research Assistant in the group of <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> at Heidelberg University.
+Since September 2024 I am Research Assistant in the working group of <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a> at Heidelberg University.
