@@ -14,6 +14,17 @@ Below you find a list of my current and past teaching activities.
   <div class="p-3">
     <div class="row">
       <div class="col-12"> 
+        <h5 class="font-weight-bold">Summer 2025</h5>
+        <h6>Giving tutorials and creating/ editing lecture materials for the lecture <em>Funktionalanalysis</em>, held by <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/appa/mp/" target="_blank">Prof. Dr. M. A. Peter</a> </h6>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card mt-3 mb-3 p-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-12"> 
         <h5 class="font-weight-bold">Winter 2024/25</h5>
         <h6>Giving tutorials for the lecture <em>Analysis 1</em>, held by <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/ana/prof-dr-dirk-blomker/" target="_blank">Prof. Dr. D. Blömker</a> </h6>
       </div>
