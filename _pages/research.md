@@ -52,7 +52,7 @@ I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>part
         </colgroup>
         <tbody>
             <tr>
-				<td>06/2024</td>
+				<td>08/2024</td>
 				<td> <em>Elliptic Regularity Theory for the Robin Laplacian on Domains with an Exterior Cusp</em>, Master's thesis in Mathematics at Heidelberg University under the supervision of <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a></td>
 			</tr>
 			<tr>
