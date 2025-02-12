@@ -8,7 +8,7 @@ nav_order: 4
 
 Below you find a list of my current and past teaching activities.
 
-<h2 style="margin-top: 40px;">At Augsburg University</h2>
+<h2 style="margin-top: 40px;">At the University of Augsburg</h2>
 
 <div class="card mt-3 mb-3 p-3">
   <div class="p-3">
