@@ -14,7 +14,7 @@ Below you find a list of my current and past teaching activities.
   <div class="p-3">
     <div class="row">
       <div class="col-12"> 
-        <h5 class="font-weight-bold">Summer 2025</h5>
+        <h5 class="font-weight-bold">Winter 2025/26</h5>
         <h6>Giving tutorials and creating/ editing lecture materials for the lecture <em>Gewöhnliche Differentialgleichungen</em>, held by <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/appa/lb/" target="_blank">Prof. Dr. L. Beck</a> </h6>
       </div>
     </div>
