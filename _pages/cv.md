@@ -9,7 +9,7 @@ nav_order: 2
 <h2>Positions</h2>
 
 <b>since Nov. 2024</b><br>
-<em>Research Assistant</em>, Chair of Applied Analysis, University of Augsburg<br>
+<em>Doctoral Researcher</em>, Chair of Applied Analysis, University of Augsburg<br>
 
 <b>Sep. 2024 – Oct. 2024</b><br>
 <em>Research Assistant</em>, Department for Analysis and Mathematical Modelling, Heidelberg University<br>
@@ -24,7 +24,7 @@ nav_order: 2
 <h2>Education</h2>
 
 <b>since Nov. 2024</b><br>
-<em>Doctoral Candidate in Mathematics</em>, University of Augsburg, under the supervision of <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/appa/mp/" target="_blank">Prof. Dr. M. A. Peter</a><br>
+<em>PhD Student in Mathematics</em>, University of Augsburg, under the supervision of <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/appa/mp/" target="_blank">Prof. Dr. M. A. Peter</a><br>
 
 <b>Oct. 2021 – Aug. 2024</b><br>
 <em>M.Sc. in Mathematics</em>, Heidelberg University; 

@@ -16,6 +16,7 @@ Below you find a list of my current and past teaching activities.
       <div class="col-12"> 
         <h5 class="font-weight-bold">Winter 2025/26</h5>
         <h6>Teaching assistance for the lecture <em>Gewöhnliche Differentialgleichungen</em>, held by <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/appa/lb/" target="_blank">Prof. Dr. L. Beck</a> </h6>
+        <h6>Organisation of the reading seminar <em>Nichtlineare Funktionalanalysis</em>, together with <a href="https://www.uni-augsburg.de/de/fakultaet/mntf/math/prof/invpde/team/jan-f-pietschmann/" target="_blank">Prof. Dr. J.-F. Pietschmann</a> </h6>
       </div>
     </div>
   </div>
