@@ -44,15 +44,17 @@ I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>part
 <body>
 
 <div>
-    <strong>Preprins</strong>
+    <strong>Preprints</strong>
     <div style="margin-top: 1em;">
     <strong>2025</strong>
-    <ul>
-      <li>
-        <div>Lucas M. Fix, Gianna Götzmann, Malte A. Peter, Jan-F. Pietschmann</div>
-        <div><em>Effective transmission through an interface with evolving microstructure</em></div>
-      </li>
-    </ul>
+    <ul style="list-style: none; padding-left: 0;">
+    <li>
+    <div>Lucas M. Fix, Gianna Götzmann, Malte A. Peter, Jan-F. Pietschmann</div>
+    <div><em>Effective transmission through an interface with evolving microstructure</em>,
+    <a href="https://arxiv.org/abs/2512.11489">arXiv:2512.11489</a></div>
+  </li>
+</ul>
+
   </div>
 </div>
 
