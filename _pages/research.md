@@ -6,9 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-<h3>Preprints</h3> <br />
-I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>partial differential equations </em> and the <em>calculus of variations</em>. My current research is focused on analytical homogenisation in thin domains with evolving microstructure and the derivation of effective transmission conditions. In my master's thesis I examined elliptic regularity properties of the Laplace operator equipped with Robin boundary conditions on domains with an exterior cusp. An analysis in classical Sobolev spaces presents significant challenges due to the irregularity of the domain under consideration, which motivated the introduction of weighted Sobolev spaces and their functional analytic study.
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,12 +36,23 @@ I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>part
             border-left: none;
             border-right: none;
         }
+
+        .section-title {
+        font-size: 1.8em;   /* größere Schrift */
+        margin-top: 2em;    /* Abstand oberhalb */
+        margin-bottom: 0.5em; /* Abstand darunter */
+    }
     </style>
 </head>
+
 <body>
 
+<h3 class="section-title">About my research</h3> <br />
+I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>partial differential equations </em> and the <em>calculus of variations</em>. My current research is focused on analytical homogenisation in thin domains with evolving microstructure and the derivation of effective transmission conditions. In my master's thesis I examined elliptic regularity properties of the Laplace operator equipped with Robin boundary conditions on domains with an exterior cusp. An analysis in classical Sobolev spaces presents significant challenges due to the irregularity of the domain under consideration, which motivated the introduction of weighted Sobolev spaces and their functional analytic study.
+
+
 <div>
-    <h3>Preprints</h3>
+    <h3 class="section-title">Preprints</h3>
     <div style="margin-top: 1em;">
     <strong>2025</strong>
     <ul style="list-style: none; padding-left: 0;">
@@ -59,7 +67,7 @@ I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>part
 </div>
 
 <div>
-    <h3>Preprints</h3>
+    <h3 class="section-title">Theses</h3>
     <table>
         <colgroup>
             <col style="width: 20%;">
