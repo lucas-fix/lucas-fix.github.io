@@ -44,6 +44,19 @@ I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>part
 <body>
 
 <div>
+    <strong>Preprins</strong>
+    <div style="margin-top: 1em;">
+    <strong>2025</strong>
+    <ul>
+      <li>
+        <div>Lucas M. Fix, Gianna Götzmann, Malte A. Peter, Jan-F. Pietschmann</div>
+        <div><em>Effective transmission through an interface with evolving microstructure</em></div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div>
     <strong>Theses</strong>
     <table>
         <colgroup>
