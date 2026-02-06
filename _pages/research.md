@@ -48,7 +48,8 @@ nav_order: 3
 <body>
 
 <h3 class="section-title">About my research</h3>
-I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>partial differential equations </em> and the <em>calculus of variations</em>. My current research is focused on analytical homogenisation in thin domains with evolving microstructure and the derivation of effective transmission conditions. In my master's thesis I examined elliptic regularity properties of the Laplace operator equipped with Robin boundary conditions on domains with an exterior cusp. An analysis in classical Sobolev spaces presents significant challenges due to the irregularity of the domain under consideration, which motivated the introduction of weighted Sobolev spaces and their functional analytic study.
+I'm mainly interested in <em>applied analysis</em>, with an emphasis on <em>partial differential equations </em> and the <em>calculus of variations</em>. My current research focuses on analytical homogenisation in (thin) domains with time-dependent microstructure, with an emphasis on deriving effective transmission conditions. Extensions of two-scale convergence and unfolding techniques to evolving geometries provide a rigorous framework for upscaling microscopic, time-dependent models to macroscopic limit problems.
+In my master's thesis I examined elliptic regularity properties of the Laplace operator equipped with Robin boundary conditions on domains with an exterior cusp. An analysis in classical Sobolev spaces presents significant challenges due to the irregularity of the domain under consideration, which motivates the introduction of weighted Sobolev spaces and their functional analytic study.
 
 
 <div>
