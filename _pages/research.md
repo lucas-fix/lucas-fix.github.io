@@ -86,3 +86,22 @@ In my master's thesis I examined elliptic regularity properties of the Laplace o
 		</tbody>
     </table>
 </div>
+
+<script>
+(function () {
+  const footer = document.querySelector("footer.fixed-bottom");
+  if (!footer) return;
+  const setFooterHeight = () => {
+    document.documentElement.style.setProperty("--footer-height", footer.offsetHeight + "px");
+  };
+  setFooterHeight();
+  window.addEventListener("load", setFooterHeight);
+  window.addEventListener("resize", setFooterHeight);
+})();
+</script>
+
+<style>
+body {
+  padding-bottom: calc(var(--footer-height, 100px) + 20px) !important;
+}
+</style>

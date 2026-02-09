@@ -94,7 +94,7 @@ Below you find a list of my current and past teaching activities.
 <h2 style="margin-top: 40px;">At Heidelberg University</h2>
 
 <div class="card mt-3 mb-3 teaching-group">
-  <details class="teaching-semester" open>
+  <details class="teaching-semester">
     <summary class="teaching-summary p-3">
       <span class="teaching-term">Summer 2024</span>
     </summary>
