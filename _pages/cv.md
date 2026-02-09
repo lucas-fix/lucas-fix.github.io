@@ -37,6 +37,9 @@ Grade: 1.4<br><br>
 
 <h2>Invited Talks</h2>
 
+<b>Mar. 2026 (upcoming)</b><br>
+<em>GAMM Annual Meeting 2026</em>, University of Stuttgart, Applied Analyis Section<br>
+
 <b>Oct. 2024</b><br>
 Technical University of Darmstadt, Oberseminar Analysis<br>
 
@@ -48,7 +51,7 @@ University of Augsburg, Oberseminar Mathematische Modellierung und partielle Dif
 <h2>Poster Presentations</h2>
 
 <b>Mar. 2026 (upcoming)</b><br>
-Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University<br><br>
+Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University<br>
 
 <b>Jun. 2025</b><br>
 Summer School <em>Mathematical Analysis and Applications</em>, Lake Como School of Advanced Studies<br><br>
@@ -60,7 +63,7 @@ Summer School <em>Mathematical Analysis and Applications</em>, Lake Como School 
 <em>GAMM Annual Meeting 2026</em>, University of Stuttgart<br>
 
 <b>Mar. 2026 (upcoming)</b><br>
-Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University<br><br>
+Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University<br>
 
 <b>Sep. 2025</b><br>
 <em>1st GAMM Activity Group Workshop "Analysis of Partial Differential Equations and Calculus of Variations"</em>, Dresden University of Technology<br>
