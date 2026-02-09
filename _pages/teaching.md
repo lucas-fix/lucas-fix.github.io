@@ -13,7 +13,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Summer 2026</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -35,7 +34,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Winter 2025/26</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -59,7 +57,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Summer 2025</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -77,7 +74,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Winter 2024/25</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -98,7 +94,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Summer 2024</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -116,7 +111,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Winter 2023/24</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -140,7 +134,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Summer 2023</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -158,7 +151,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Winter 2022/23</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -176,7 +168,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Summer 2022</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -194,7 +185,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Winter 2021/22</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">
@@ -212,7 +202,6 @@ Below you find a list of my current and past teaching activities.
 <details class="teaching-semester">
   <summary class="teaching-summary card p-3">
     <h5 class="m-0 teaching-term">Winter 2020/21</h5>
-    <span class="teaching-chevron" aria-hidden="true"></span>
   </summary>
 
   <div class="card teaching-body p-3">

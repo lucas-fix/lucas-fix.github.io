@@ -1,42 +1,55 @@
-/* ===== Collapsible teaching cards ===== */
+/* ===== Collapsible teaching cards (stacked, no arrows) ===== */
 
-/* Remove default disclosure marker */
+/* 1) Hide default <details>/<summary> markers (Chrome/Edge/Safari + Firefox) */
 .teaching-semester > summary { list-style: none; }
 .teaching-semester > summary::-webkit-details-marker { display: none; }
+.teaching-semester > summary::marker { content: ""; }
 
-/* Full-width summary card header */
+/* 2) Summary as full-width “card header” */
 .teaching-summary {
   width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
   cursor: pointer;
   user-select: none;
   box-sizing: border-box;
-  margin-bottom: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* ensures no centering */
 }
 
+/* Keep semester title bold */
 .teaching-term { font-weight: 700; }
 
-/* Chevron indicator */
-.teaching-chevron::before {
-  content: "▾";
-  opacity: 0.7;
-  display: inline-block;
-  transition: transform 0.15s ease;
-}
-.teaching-semester[open] .teaching-chevron::before { transform: rotate(180deg); }
+/* 3) Stack semesters tightly within a group (no vertical gaps) */
+.teaching-group .teaching-semester { margin: 0; }
 
-/* Merge header+body visually into one card when open */
+/* Remove doubled borders / rounded corners between stacked headers */
+.teaching-group .teaching-semester + .teaching-semester .teaching-summary {
+  border-top: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.teaching-group .teaching-semester:not(:last-child) .teaching-summary {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+/* 4) Merge header + body when open */
 .teaching-semester[open] .teaching-summary {
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
+
 .teaching-body {
+  margin-top: 0 !important;
+  border-top: 0;                 /* removes the “gap/double border” */
   border-top-left-radius: 0;
   border-top-right-radius: 0;
-  margin-top: 0 !important;
 }
 
-/* spacing between semesters */
-.teaching-semester { display: block; margin: 1rem 0; }
+/* If there is another semester after it, also remove bottom radius from body */
+.teaching-group .teaching-semester:not(:last-child) .teaching-body {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
