@@ -3,7 +3,10 @@
   if (!footer) return;
 
   const setFooterHeight = () => {
-    document.documentElement.style.setProperty("--footer-height", footer.offsetHeight + "px");
+    const height = footer.offsetHeight;
+    document.documentElement.style.setProperty("--footer-height", height + "px");
+    // Direkt inline setzen, um andere Inline-Styles zu überschreiben
+    document.body.style.paddingBottom = (height + 20) + "px";
   };
 
   setFooterHeight();
