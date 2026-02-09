@@ -4,9 +4,11 @@
 
   const setFooterHeight = () => {
     const height = footer.offsetHeight;
-    document.documentElement.style.setProperty("--footer-height", height + "px");
-    // Direkt inline setzen, um andere Inline-Styles zu überschreiben
-    document.body.style.paddingBottom = (height + 20) + "px";
+    // Finde die Tabelle in der research.md und gib ihr margin-bottom
+    const table = document.querySelector("table");
+    if (table) {
+      table.style.marginBottom = (height + 30) + "px";
+    }
   };
 
   setFooterHeight();
