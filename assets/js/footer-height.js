@@ -1,0 +1,1 @@
+!function(){const e=document.querySelector("footer.fixed-bottom");if(!e)return;const t=()=>{document.documentElement.style.setProperty("--footer-height",e.offsetHeight+"px")};t(),window.addEventListener("load",t),window.addEventListener("resize",t),window.ResizeObserver&&new ResizeObserver(t).observe(e)}();
