@@ -1,73 +1,38 @@
-/* ===== Collapsible teaching cards (stacked, no arrows) ===== */
+/* ===== Teaching: collapsible list inside one card ===== */
 
-/* 1) Hide default <details>/<summary> markers (Chrome/Edge/Safari + Firefox) */
+.teaching-group.card { overflow: hidden; }
+
+/* hide default details marker */
 .teaching-semester > summary { list-style: none; }
 .teaching-semester > summary::-webkit-details-marker { display: none; }
 .teaching-semester > summary::marker { content: ""; }
 
-/* 2) Summary as full-width “card header” */
+/* no extra gaps */
+.teaching-semester { margin: 0; }
+
+/* summary row */
 .teaching-summary {
+  display: block;
   width: 100%;
   cursor: pointer;
   user-select: none;
-  box-sizing: border-box;
-
-  display: flex;
-  align-items: center;
-  justify-content: flex-start; /* ensures no centering */
-}
-
-/* Keep semester title bold */
-.teaching-term { font-weight: 700; }
-
-/* 3) Stack semesters tightly within a group (no vertical gaps) */
-.teaching-group .teaching-semester { margin: 0; }
-
-/* Remove doubled borders / rounded corners between stacked headers */
-.teaching-group .teaching-semester + .teaching-semester .teaching-summary {
-  border-top: 0;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-}
-
-.teaching-group .teaching-semester:not(:last-child) .teaching-summary {
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-
-/* 4) Merge header + body when open */
-.teaching-semester[open] .teaching-summary {
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-
-.teaching-body {
-  margin-top: 0 !important;
-  border-top: 0;                 /* removes the “gap/double border” */
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-}
-
-/* If there is another semester after it, also remove bottom radius from body */
-.teaching-group .teaching-semester:not(:last-child) .teaching-body {
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-
-/* Force left alignment inside the summary header */
-.teaching-summary {
-  display: flex !important;
-  align-items: center;
-  justify-content: flex-start !important;
-  text-align: left !important;
-}
-
-/* smaller + semibold */
-.teaching-term {
-  margin: 0;
-  margin-right: auto;     /* pushes everything else (if any) to the right */
   text-align: left;
-  font-weight: 600;       /* instead of 700 */
-  font-size: 1.05rem;     /* tweak: try 1.0rem–1.1rem */
+}
+
+/* term: NOT bold, a bit larger (matches your “calm” look) */
+.teaching-term {
+  font-weight: 400;
+  font-size: 1.25rem;
   line-height: 1.2;
+  margin: 0;
+}
+
+/* separators between rows */
+.teaching-group .teaching-semester + .teaching-semester > summary {
+  border-top: 1px solid rgba(0,0,0,.08);
+}
+
+/* separator between summary and opened body */
+.teaching-body {
+  border-top: 1px solid rgba(0,0,0,.08);
 }
