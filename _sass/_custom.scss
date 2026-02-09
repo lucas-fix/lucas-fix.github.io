@@ -1,0 +1,42 @@
+/* ===== Collapsible teaching cards ===== */
+
+/* Remove default disclosure marker */
+.teaching-semester > summary { list-style: none; }
+.teaching-semester > summary::-webkit-details-marker { display: none; }
+
+/* Full-width summary card header */
+.teaching-summary {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  user-select: none;
+  box-sizing: border-box;
+  margin-bottom: 0;
+}
+
+.teaching-term { font-weight: 700; }
+
+/* Chevron indicator */
+.teaching-chevron::before {
+  content: "▾";
+  opacity: 0.7;
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+.teaching-semester[open] .teaching-chevron::before { transform: rotate(180deg); }
+
+/* Merge header+body visually into one card when open */
+.teaching-semester[open] .teaching-summary {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.teaching-body {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  margin-top: 0 !important;
+}
+
+/* spacing between semesters */
+.teaching-semester { display: block; margin: 1rem 0; }
