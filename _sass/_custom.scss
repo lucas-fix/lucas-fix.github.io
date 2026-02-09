@@ -53,3 +53,21 @@
   border-bottom-left-radius: 0;
   border-bottom-right-radius: 0;
 }
+
+/* Force left alignment inside the summary header */
+.teaching-summary {
+  display: flex !important;
+  align-items: center;
+  justify-content: flex-start !important;
+  text-align: left !important;
+}
+
+/* smaller + semibold */
+.teaching-term {
+  margin: 0;
+  margin-right: auto;     /* pushes everything else (if any) to the right */
+  text-align: left;
+  font-weight: 600;       /* instead of 700 */
+  font-size: 1.05rem;     /* tweak: try 1.0rem–1.1rem */
+  line-height: 1.2;
+}
