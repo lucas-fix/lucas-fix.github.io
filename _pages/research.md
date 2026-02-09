@@ -69,39 +69,18 @@ In my master's thesis I examined elliptic regularity properties of the Laplace o
 
 <div>
     <h3 class="section-title">Theses</h3>
-    <table>
-        <colgroup>
-            <col style="width: 15%;">
-            <col style="width: 80%;">
-        </colgroup>
-        <tbody>
-            <tr>
-				<td>08/2024</td>
-				<td> <em>Elliptic Regularity Theory for the Robin Laplacian on Domains with an Exterior Cusp</em>, Master's thesis in Mathematics at Heidelberg University under the supervision of <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a></td>
-			</tr>
-			<tr>
-				<td>08/2021</td>
-				<td><em>Nonlinear Electrodynamics and its Applications to Cosmology</em>, Bachelor's thesis in Physics at Heidelberg University under the supervision of <a href="https://www.thphys.uni-heidelberg.de/~bartelmann/" target="_blank">Prof. Dr. M. Bartelmann</a></td>
-			</tr>
-		</tbody>
-    </table>
+    <ul style="list-style: none; padding-left: 0;">
+        <li style="margin-bottom: 1.5em;">
+            <strong>08/2024</strong><br>
+            <em>Elliptic Regularity Theory for the Robin Laplacian on Domains with an Exterior Cusp</em>, 
+            Master's thesis in Mathematics at Heidelberg University under the supervision of 
+            <a href="https://www.uni-heidelberg.de/math/knuepfer/" target="_blank">Prof. Dr. H. Knüpfer</a>
+        </li>
+        <li style="margin-bottom: 1.5em;">
+            <strong>08/2021</strong><br>
+            <em>Nonlinear Electrodynamics and its Applications to Cosmology</em>, 
+            Bachelor's thesis in Physics at Heidelberg University under the supervision of 
+            <a href="https://www.thphys.uni-heidelberg.de/~bartelmann/" target="_blank">Prof. Dr. M. Bartelmann</a>
+        </li>
+    </ul>
 </div>
-
-<script>
-(function () {
-  const footer = document.querySelector("footer.fixed-bottom");
-  if (!footer) return;
-  const setFooterHeight = () => {
-    document.documentElement.style.setProperty("--footer-height", footer.offsetHeight + "px");
-  };
-  setFooterHeight();
-  window.addEventListener("load", setFooterHeight);
-  window.addEventListener("resize", setFooterHeight);
-})();
-</script>
-
-<style>
-body {
-  padding-bottom: calc(var(--footer-height, 100px) + 20px) !important;
-}
-</style>
