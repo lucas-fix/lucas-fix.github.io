@@ -4,10 +4,11 @@
 
   const setFooterHeight = () => {
     const height = footer.offsetHeight;
-    // Finde die Tabelle in der research.md und gib ihr margin-bottom
-    const table = document.querySelector("table");
-    if (table) {
-      table.style.marginBottom = (height + 30) + "px";
+    
+    // Universelle Lösung: Haupt-Container bekommt Abstand
+    const container = document.querySelector(".container[role='main']");
+    if (container) {
+      container.style.paddingBottom = (height + 30) + "px";
     }
   };
 
