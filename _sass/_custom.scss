@@ -36,3 +36,15 @@
 .teaching-body {
   border-top: 1px solid rgba(0,0,0,.08);
 }
+
+/* --- make room for the fixed footer (height set via JS) --- */
+:root { --footer-height: 64px; } /* fallback */
+
+body {
+  padding-bottom: calc(var(--footer-height) + env(safe-area-inset-bottom, 0px));
+}
+
+footer.fixed-bottom {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
