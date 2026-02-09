@@ -38,7 +38,7 @@ Grade: 1.4<br><br>
 <h2>Invited Talks</h2>
 
 <b>Mar. 2026 (upcoming)</b><br>
-<em>GAMM Annual Meeting 2026</em>, University of Stuttgart, Applied Analyis Section<br>
+<em>GAMM Annual Meeting 2026</em>, University of Stuttgart, Applied Analysis Section<br>
 
 <b>Oct. 2024</b><br>
 Technical University of Darmstadt, Oberseminar Analysis<br>
@@ -57,7 +57,7 @@ Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University<br>
 Summer School <em>Mathematical Analysis and Applications</em>, Lake Como School of Advanced Studies<br><br>
 
 
-<h2>Attended Conferences, Summer Schools & Workshops</h2>
+<h2>Attended Conferences, Schools & Workshops</h2>
 
 <b>Mar. 2026 (upcoming)</b><br>
 <em>GAMM Annual Meeting 2026</em>, University of Stuttgart<br>
