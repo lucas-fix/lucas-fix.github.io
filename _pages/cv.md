@@ -63,7 +63,7 @@ Summer School <em>Mathematical Analysis and Applications</em>, Lake Como School 
 <h2>Research Stays</h2>
 
 <b>Jan./Feb. 2026 (4 weeks) </b><br>
-Secondment to Rockfield in Swansea and Aberystwyth University (United Kingdom), Project <a href="https://cordis.europa.eu/project/id/101008140" target="_blank" rel="noopener">Effective Factorisation techniques for matrix-functions: Developing theory, numerical methods and impactful applications</a>
+Secondment to Rockfield in Swansea and Aberystwyth University (United Kingdom), Project <a href="https://cordis.europa.eu/project/id/101008140" target="_blank" rel="noopener">Effective Factorisation techniques for matrix-functions: Developing theory, numerical methods and impactful applications</a><br><br>
 
 
 <h2>Attended Conferences, Schools & Workshops</h2>
