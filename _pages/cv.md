@@ -28,7 +28,7 @@ nav_order: 2
 
 <b>Oct. 2021 – Aug. 2024</b><br>
 <em>M.Sc. in Mathematics</em>, Heidelberg University; 
-Grade: 1.0 (with distinction)<br>
+Grade: 1.0, with distinction<br>
 
 <b>Oct. 2017 – Sep. 2021</b><br>
 <em>B.Sc. in Physics</em>, Heidelberg University;
@@ -37,54 +37,66 @@ Grade: 1.4<br><br>
 
 <h2>Invited Talks</h2>
 
-<b>Mar. 2026 (upcoming)</b><br>
-<em>GAMM Annual Meeting 2026</em>, University of Stuttgart, Applied Analysis Section<br>
+<b>Jul. 2026 (upcoming)</b><br>
+<em>The 15th AIMS Conference</em>, Special Session 124 "Mathematical methods for heterogeneous media", National and Kapodistrian University of Athens (Greece)<br>
+
+<b>Mar. 2026 </b><br>
+<em>GAMM Annual Meeting 2026</em>, Applied Analysis Section, University of Stuttgart (Germany)<br>
 
 <b>Oct. 2024</b><br>
-Technical University of Darmstadt, Oberseminar Analysis<br>
+Technical University of Darmstadt (Germany), Oberseminar Analysis<br>
 
 <b>Jul. 2024</b><br>
-Technical University Dortmund, Oberseminar Angewandte Analysis<br>
-University of Augsburg, Oberseminar Mathematische Modellierung und partielle Differentialgleichungen<br><br>
+Technical University Dortmund (Germany), Oberseminar Angewandte Analysis<br>
+University of Augsburg (Germany), Oberseminar Mathematische Modellierung und partielle Differentialgleichungen<br><br>
 
 
 <h2>Poster Presentations</h2>
 
-<b>Mar. 2026 (upcoming)</b><br>
-Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University<br>
+<b>Mar. 2026 </b><br>
+Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University (Germany)<br>
 
 <b>Jun. 2025</b><br>
-Summer School <em>Mathematical Analysis and Applications</em>, Lake Como School of Advanced Studies<br><br>
+Summer School <em>Mathematical Analysis and Applications</em>, Lake Como School of Advanced Studies (Italy)<br><br>
+
+
+<h2>Research Stays</h2>
+
+<b>Jan./Feb. 2026 (4 weeks) </b><br>
+Secondment to Rockfield in Swansea and Aberystwyth University (United Kingdom), Project <a href="https://cordis.europa.eu/project/id/101008140" target="_blank" rel="noopener">Effective Factorisation techniques for matrix-functions: Developing theory, numerical methods and impactful applications</a>
 
 
 <h2>Attended Conferences, Schools & Workshops</h2>
 
-<b>Mar. 2026 (upcoming)</b><br>
-<em>GAMM Annual Meeting 2026</em>, University of Stuttgart<br>
+<b>Jul. 2026 (upcoming)</b><br>
+<em>The 15th AIMS Conference</em>, National and Kapodistrian University of Athens (Greece)<br>
 
-<b>Mar. 2026 (upcoming)</b><br>
-Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University<br>
+<b>Mar. 2026 </b><br>
+<em>GAMM Annual Meeting 2026</em>, University of Stuttgart (Germany)<br>
+
+<b>Mar. 2026 </b><br>
+Spring School <em>Horizons in nonlinear PDEs</em>, Ulm University (Germany)<br>
 
 <b>Sep. 2025</b><br>
-<em>1st GAMM Activity Group Workshop "Analysis of Partial Differential Equations and Calculus of Variations"</em>, Dresden University of Technology<br>
+<em>1st GAMM Activity Group Workshop "Analysis of Partial Differential Equations and Calculus of Variations"</em>, Dresden University of Technology (Germany)<br>
 
 <b>Jun. 2025</b><br>
-Summer School <em>Mathematical Analysis and Applications</em>, Lake Como School of Advanced Studies<br>
+Summer School <em>Mathematical Analysis and Applications</em>, Lake Como School of Advanced Studies (Italy)<br>
 
 <b>Apr. 2025</b><br>
-<em>GAMM Annual Meeting 2025</em>, Poznan University of Technology<br>
+<em>GAMM Annual Meeting 2025</em>, Poznan University of Technology (Poland)<br>
 
 <b>Mar. 2025</b><br>
-<em>Aachen–Erlangen–Regensburg Young Mathematicians Meeting: From Theory to Applications</em>, University of Regensburg<br>
+<em>Aachen–Erlangen–Regensburg Young Mathematicians Meeting: From Theory to Applications</em>, University of Regensburg (Germany)<br>
 
 <b>Nov. 2024</b><br>
-<em>Workshop on Fluid Flow and Reactive Transport in Porous Media</em>, KU Eichstätt-Ingolstadt<br>
+<em>Workshop on Fluid Flow and Reactive Transport in Porous Media</em>, KU Eichstätt-Ingolstadt (Germany)<br>
 
 <b>Jun. 2024</b><br>
-<em>Conference on Calculus of Variations</em>, Université de Lille<br>
+<em>Conference on Calculus of Variations</em>, Université de Lille (France)<br>
 
 <b>Apr. 2023</b><br>
-<em>Compact Course - The Gradient Flow Structure of Mean Curvature Flow</em>, Heidelberg University<br><br><br>
+<em>Compact Course - The Gradient Flow Structure of Mean Curvature Flow</em>, Heidelberg University (Germany)<br><br><br>
 
 
 <a href="{{ '/assets/pdf/CV_LucasFix.pdf' | relative_url }}">Here</a> you can download a more detailed PDF version of my CV.
